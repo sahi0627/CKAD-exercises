@@ -300,6 +300,7 @@ $
 Kavalipurapu Sahithi@sahithi MINGW64 ~/newtestrepo/CKAD-exercises (newtestbranch)
 $ git push origin newtestbranch
 
+new change from git
 
 touch cmd to add new files
 
