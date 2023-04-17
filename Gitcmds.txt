@@ -1,4 +1,4 @@
-
+GIT CMDS:
 
 Kavalipurapu Sahithi@sahithi MINGW64 ~
 $ mkdir newtestrepo
